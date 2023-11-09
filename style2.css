@@ -1,0 +1,35 @@
+body{
+    text-align:center;
+
+}
+
+#head1{
+    
+    height:100px;
+    width:500px;
+    background-image: url("website.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:30px 100px 10px 500px;
+}
+
+#head2{
+    height:100px;
+    width:500px;
+    background-image: url("com.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:20px 100px 10px 650px;
+
+
+}
+
+#head3{
+    height:500px;
+    width:500px;
+    background-image: url("program.jpg  ");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:10px 500px 0px 470px;
+
+}
